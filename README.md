@@ -23,7 +23,7 @@ A 150 lines python 3.6 blockchain-node implementation.
 The postman collection in the repo contains all the methods in order to iteract with the live version
 [Postman Published Collection](https://documenter.getpostman.com/view/560342/blackcoin/RW1XKM32#25df755a-a0a4-4f88-bc7f-23f7f9b77f05)
 
-## If running locally is not your thing you play with the live version pointing your requests to ``` 64.137.224.12:666 ```
+## If running locally is not your thing you can play with the live version pointing your requests to ``` 64.137.224.12:666 ```
 ``` 
 curl --request GET \
  --url http://64.137.224.12:666/blocks 
