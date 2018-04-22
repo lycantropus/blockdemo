@@ -9,6 +9,8 @@ A 150 lines python 3.6 blockchain-node implementation.
 * Download and install Python 3.6
 * Install dependencies
   * ``` pip install --no-cache-dir -r requirements.txt ```
+* Run
+  * ``` py server.py ```
 
 ## Run on Docker
 
