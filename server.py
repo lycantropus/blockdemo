@@ -115,4 +115,4 @@ def get_blocks():
 
     return blocklist
 
-node.run()
+node.run(host='0.0.0.0')
